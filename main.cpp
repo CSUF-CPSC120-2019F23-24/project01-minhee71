@@ -13,8 +13,7 @@ int main()
     double hotel_expenses,
       meal_expenses,
       total_expenses;
-    char dolla = '$';
-
+    
     // Request inputs from user.
     std::cout << "Business Trip Tracker for MINHEE71 Corp.\n";
     std::cout << "Where was the location of the trip? ";
